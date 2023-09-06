@@ -83,3 +83,7 @@ SOFTWARE.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
